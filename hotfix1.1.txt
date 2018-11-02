@@ -1,0 +1,7 @@
+master edited : this is hotfix1.1
+hotfix1 edited : this is hotfix1.1
+commit 1
+commit 2
+commit 3 from dev
+
+change from dev
